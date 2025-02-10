@@ -1,0 +1,12 @@
+C:\Users\niyati_gupta\source\repos\StudentADODemo\StudentService\obj\Debug\net8.0\StudentService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niyati_gupta\source\repos\StudentADODemo\StudentService\obj\Debug\net8.0\StudentService.AssemblyInfoInputs.cache
+C:\Users\niyati_gupta\source\repos\StudentADODemo\StudentService\obj\Debug\net8.0\StudentService.AssemblyInfo.cs
+C:\Users\niyati_gupta\source\repos\StudentADODemo\StudentService\obj\Debug\net8.0\StudentService.csproj.CoreCompileInputs.cache
+C:\Users\niyati_gupta\source\repos\StudentADODemo\StudentService\bin\Debug\net8.0\StudentService.deps.json
+C:\Users\niyati_gupta\source\repos\StudentADODemo\StudentService\bin\Debug\net8.0\StudentService.dll
+C:\Users\niyati_gupta\source\repos\StudentADODemo\StudentService\bin\Debug\net8.0\StudentService.pdb
+C:\Users\niyati_gupta\source\repos\StudentADODemo\StudentService\obj\Debug\net8.0\StudentService.csproj.AssemblyReference.cache
+C:\Users\niyati_gupta\source\repos\StudentADODemo\StudentService\obj\Debug\net8.0\StudentService.dll
+C:\Users\niyati_gupta\source\repos\StudentADODemo\StudentService\obj\Debug\net8.0\refint\StudentService.dll
+C:\Users\niyati_gupta\source\repos\StudentADODemo\StudentService\obj\Debug\net8.0\StudentService.pdb
+C:\Users\niyati_gupta\source\repos\StudentADODemo\StudentService\obj\Debug\net8.0\ref\StudentService.dll
